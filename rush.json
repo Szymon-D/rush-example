@@ -105,7 +105,7 @@
    * Specify a SemVer range to ensure developers use a Node.js version that is appropriate
    * for your repo.
    */
-  "nodeSupportedVersionRange": ">=12.13.0 <13.0.0",
+  "nodeSupportedVersionRange": ">=12.13.0",
 
   /**
    * Odd-numbered major versions of Node.js are experimental.  Even-numbered releases
@@ -226,7 +226,8 @@
      */
     "allowedEmailRegExps": [
       "[^@]+@users\\.noreply\\.github\\.com",
-      "travis@example\\.org"
+      "travis@example\\.org",
+      "d.szymon@outlook.com"
     ],
 
     /**
@@ -327,7 +328,7 @@
     //    * The folder name for this variant.
     //    */
     //   "variantName": "old-sdk",
-    // 
+    //
     //   /**
     //    * An informative description
     //    */

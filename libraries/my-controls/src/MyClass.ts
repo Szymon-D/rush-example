@@ -4,3 +4,5 @@ export class MyClass {
     console.log('Hello, world!');
   }
 }
+
+pzdr
